@@ -8,7 +8,7 @@
 
 // Touch controls
 #define LEFT_TOUCH_PIN 32
-#define RIGHT_TOUCH_PIN 33
+#define RIGHT_TOUCH_PIN 35
 
 // Touch threshold factor
 #define TOUCH_THRESHOLD_FACTOR 0.70f
